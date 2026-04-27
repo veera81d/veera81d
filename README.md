@@ -34,13 +34,6 @@ A portfolio case study based on an end-to-end supply chain analytics platform bu
 - Cortex AI views for summarization, risk scoring, and recommendations
 - RAG pipeline with Cortex Search and `SPRAGQUERY`
 
-**Key Objects**
-- `DATARAW.SUPPLYCHAIN`
-- `DATASTAGE.SUPPLYCHAIN`
-- `DATACURATED.SUPPLYCHAIN`
-- `SUPPLYCHAINSEARCH`
-- `SPRAGQUERY`
-
 What I Build
 
 - Scalable cloud data platforms for enterprise analytics
