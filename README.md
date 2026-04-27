@@ -1,51 +1,48 @@
 Hi, I'm Veeraiah Yadav
 
-Enterprise Data Architect and Senior Data Engineer focused on Snowflake, cloud data platforms, governed analytics, and AI-ready data products.
+Enterprise Data Architect and Senior Data Engineer with deep experience across SAP ecosystems, Snowflake data platforms, and cloud-based enterprise analytics.
 
 About Me
 
-- Snowflake-focused data architect with hands-on experience in enterprise data warehousing, ETL/ELT pipelines, semantic analytics, and cloud data platform design.
-- Experienced in modernizing SAP and legacy ecosystems into scalable analytics platforms on Snowflake and AWS.
-- Strong background in medallion architecture, data governance, KPI modeling, semantic layers, and AI-enriched analytics.
-- SnowPro Core Certified consultant.
+I specialize in designing and modernizing enterprise data platforms that connect complex SAP and legacy ecosystems with scalable cloud analytics environments. My background spans data architecture, ETL/ELT, enterprise reporting, data governance, dimensional modeling, and AI-ready analytics solutions.
+
+Over the years, I have worked across SAP landscapes including ECC, S/4HANA, BW/4HANA, SAP BW, SAP Data Services, SAC, and related enterprise reporting environments, while also building modern Snowflake-based platforms on AWS for governed analytics, KPI reporting, and AI use cases.
+
+Experience Highlights
+
+- Extensive experience working across **SAP ecosystems** including SAP ECC, S/4HANA, BW/4HANA, SAP BW, SAP Data Services, SAC, ABAP-related environments, and enterprise reporting landscapes.
+- Strong hands-on background in **Snowflake architecture and engineering**, including ingestion, CDC, medallion architecture, dimensional modeling, semantic analytics, and cloud data platform delivery.
+- Experience modernizing **legacy and SAP-centered enterprise systems** into scalable, business-ready cloud data platforms.
+- Proven work across **data warehousing, ETL/ELT pipelines, governance, data quality, KPI modeling, and stakeholder-facing analytics solutions**.
+- SnowPro Core Certified consultant with enterprise delivery experience across architecture, engineering, and analytics.
 
 Core Skills
 
-- **Data Platforms:** Snowflake, AWS, SAP BW/4HANA, Databricks, BigQuery
-- **Engineering:** SQL, Python, ETL/ELT, CDC, orchestration, dimensional modeling
-- **Architecture:** Medallion architecture, enterprise data warehousing, semantic layer design, data governance
-- **AI & Analytics:** Snowflake Cortex, semantic search, RAG, KPI frameworks, executive analytics
-- **Delivery:** Git, CI/CD, Agile delivery, stakeholder workshops, technical architecture documentation
+- **Enterprise Platforms:** SAP ECC, S/4HANA, BW/4HANA, SAP BW, SAP Data Services, SAC, Snowflake
+- **Cloud & Data Engineering:** AWS, SQL, Python, ETL/ELT, CDC, orchestration, medallion architecture
+- **Data Architecture:** Enterprise data warehouse design, dimensional modeling, semantic layer design, governed analytics
+- **Analytics & AI:** KPI frameworks, semantic analytics, Snowflake Cortex, AI-ready data products, RAG concepts
+- **Governance & Delivery:** Data quality, lineage, metadata, RBAC, Git, CI/CD, Agile delivery
 
-Featured Project
+What I Focus On
 
-End-to-End Supply Chain Data Platform on Snowflake
+- Bridging **enterprise SAP ecosystems** with modern cloud data platforms
+- Building **Snowflake-native analytics foundations** for reporting, self-service, and AI
+- Designing **trusted, governed, business-ready data layers** for enterprise decision-making
+- Translating complex business processes into scalable data models and analytics solutions
 
-A portfolio case study based on an end-to-end supply chain analytics platform built on Snowflake. The platform demonstrates how raw source data can be ingested, transformed, governed, modeled, and exposed for KPI reporting and AI-driven analytics.
+Professional Strengths
 
-**Highlights**
-- Amazon S3 CSV ingestion with Snowpipe
-- Raw, Stage, and Curated medallion layers
-- CDC using Streams and Tasks
-- Data quality checks across staging tables
-- Star schema modeling for analytics
-- Semantic Views for governed self-service analytics
-- Cortex Analyst for natural-language-to-SQL
-- Cortex AI views for summarization, risk scoring, and recommendations
-- RAG pipeline with Cortex Search and `SPRAGQUERY`
+- End-to-end enterprise data platform thinking
+- Strong source-to-target and business-process understanding
+- Comfortable across architecture, engineering, analytics, and stakeholder engagement
+- Ability to connect traditional enterprise systems with modern cloud and AI capabilities
 
-What I Build
+Certifications
 
-- Scalable cloud data platforms for enterprise analytics
-- Snowflake-native ingestion, CDC, and transformation pipelines
-- Curated dimensional models and KPI-ready data marts
-- Semantic and AI-ready data products for business users
-- Governed data solutions with quality, lineage, and secure access
+- SnowPro Core Certified
+- Advanced SAP ABAP Certification
 
-Current Focus
+Connect
 
-- Snowflake architecture and optimization
-- AI-ready enterprise data products
-- Semantic analytics and Cortex-based use cases
-- Modern data engineering patterns for large organizations
-
+- LinkedIn: https://www.linkedin.com/in/v80/
